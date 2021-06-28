@@ -17,7 +17,7 @@ Image2Image - CycleGAN
 https://drive.google.com/drive/folders/1hpLL95QjiKyCwnizPs1FQhMJGj8UyaFj?usp=sharing
 
 Выше указана ссылка с доступом к папке DLS_MFTI_CycleGAN на Google Drive.
-В папке расположены требуемые файлы (ноутбук, pdf-файл, веса).
+В папке расположены требуемые файлы (ноутбук, pdf-файл, веса за 300 эпох обучения модели CycleGAN, zip-архив с датасетом).
 
 Если доступ, по какой-то причине закрылся, то прошу напишите в Telegram - имя пользователя @russpartner
 

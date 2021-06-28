@@ -16,5 +16,5 @@ zip-архив horse2zebra_.zip, к которому идет обращение
 
 Файл CycleGAN_Colab_Yuriy_Belov_stepik_ID_21313451_itog.py - это просто py-копия ноутбука, настроенного на работу в Colabe. 
 
-Если же хотите повозиться с CycleGAN на локальном компьютере, то советую запускать файл cyclegan_image2image_PC.py )
+Если же хотите повозиться с CycleGAN на локальном компьютере, то советую запускать файл cyclegan_image2image_PC.py
 

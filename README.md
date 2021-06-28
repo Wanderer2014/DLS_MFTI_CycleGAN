@@ -26,4 +26,4 @@ https://drive.google.com/drive/folders/1hpLL95QjiKyCwnizPs1FQhMJGj8UyaFj?usp=sha
 
 https://github.com/Wanderer2014/DLS_MFTI_CycleGAN
 
-Сразу в папку с файлами - https://github.com/Wanderer2014/DLS_MFTI_CycleGAN/tree/DLS_MFTI_CycleGAN
+Сразу в папку с файлами на ГитХабе - https://github.com/Wanderer2014/DLS_MFTI_CycleGAN/tree/DLS_MFTI_CycleGAN
